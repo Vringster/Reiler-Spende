@@ -1,0 +1,26 @@
+.tagline{
+    font-size: 40px;
+}
+
+.getstarted-container{
+    display: inline;
+    font-size: 25px;
+    font-weight: 800;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 500px;
+    background-color: #e9e9e9;  
+}
+
+.content{
+    padding-bottom: 5rem;
+}
+
+.getstarted-container img{
+    height: 15px;
+}
+
+.getstarted-container a{
+    text-decoration: none;
+    color: #192537;
+}
